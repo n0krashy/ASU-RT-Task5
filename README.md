@@ -1,5 +1,25 @@
 # Task5
 
+Develop an angular application  with two components:
+1. Navbar component:
+   - Home
+   - Content
+   - About
+   - Contact Us
+2. Form component:
+   - First Name
+   - Last Name
+   - Email
+   - Phone
+   - Birth Date
+   - Submmit Button
+   
+The components must developed by bootstrap framework
+
+## Output
+
+![](https://imgur.com/dba8sLn.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.0.
 
 ## Development server
